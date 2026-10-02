@@ -16,3 +16,4 @@ Folder ini berisi materi praktikum per pertemuan.
 | Pertemuan | Materi | Detail |
 | :---: | :--- | :---: |
 | **01** | NetBeans dan GitHub serta Dasar Pemrograman Java | [Lihat Materi](./Pertemuan-01) |
+| **02** | Variabel dan Operator serta Input dan GUI Sederhana | [Lihat Materi](./Pertemuan-02) |

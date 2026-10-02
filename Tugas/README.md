@@ -20,3 +20,4 @@ Folder ini berisi instruksi dan soal tugas yang wajib dikerjakan pada repositori
 | Tugas | Materi | Detail |
 | :---: | :--- | :---: |
 | **Tugas 01** | Dasar Pemrograman Java | [Lihat Soal](./Pertemuan-01) |
+| **Tugas 02** | Variabel, Operataor, Input, dan GUI Sederhana | [Lihat Soal](./Pertemuan-02) |
