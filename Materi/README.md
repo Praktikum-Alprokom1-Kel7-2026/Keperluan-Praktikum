@@ -18,3 +18,5 @@ Folder ini berisi materi praktikum per pertemuan.
 | **01** | NetBeans dan GitHub serta Dasar Pemrograman Java | [Lihat Materi](./Pertemuan-01) |
 | **02** | Variabel dan Operator serta Input dan GUI Sederhana | [Lihat Materi](./Pertemuan-02) |
 | **03** | Struktur Kontrol 1 | [Lihat Materi](./Pertemuan-03) |
+| **04** | Struktur Kontrol 2 | [Lihat Materi](./Pertemuan-04) |
+| **05** | Perulangan | [Lihat Materi](./Pertemuan-05) |
