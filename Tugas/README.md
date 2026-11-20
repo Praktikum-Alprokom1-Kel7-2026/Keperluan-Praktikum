@@ -23,3 +23,7 @@ Folder ini berisi instruksi dan soal tugas yang wajib dikerjakan pada repositori
 | **Tugas 02** | Variabel, Operataor, Input, dan GUI Sederhana | [Lihat Soal](./Pertemuan-02) |
 | **Tugas 03** | Struktur Kontrol 1 | [Lihat Soal](./Pertemuan-03) |
 | **Tugas 04** | Struktur Kontrol 2 | [Lihat Soal](./Pertemuan-04) |
+| **Tugas 05** | Perulangan | [Lihat Soal](./Pertemuan-05) |
+| **Tugas 06** | Pernyataan Percabangan | [Lihat Soal](./Pertemuan-06) |
+| **Tugas 07** | Fungsi atau Method | [Lihat Soal](./Pertemuan-07) |
+| **Tugas 08** | Array | [Lihat Soal](./Pertemuan-08) |

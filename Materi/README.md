@@ -20,3 +20,6 @@ Folder ini berisi materi praktikum per pertemuan.
 | **03** | Struktur Kontrol 1 | [Lihat Materi](./Pertemuan-03) |
 | **04** | Struktur Kontrol 2 | [Lihat Materi](./Pertemuan-04) |
 | **05** | Perulangan | [Lihat Materi](./Pertemuan-05) |
+| **06** | Pernyataan Percabangan | [Lihat Materi](./Pertemuan-06) |
+| **07** | Fungsi atau Method | [Lihat Materi](./Pertemuan-07) |
+| **08** | Array | [Lihat Materi](./Pertemuan-08) |
